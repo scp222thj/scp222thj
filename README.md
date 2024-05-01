@@ -2,7 +2,7 @@
 
 - [🤖] I code bots, mods, and hacks for fun.
 
-- [🔣] Languages: `C#` & `Python`; some experience with `Java` & `Javascript`
+- [🔣] Languages: `C#` and `Python`; some experience with `Java` and `Javascript`
 
 - [🌐] Socials: [Ko-fi](https://ko-fi.com/scp222thj) | [Twitter](https://twitter.com/scp222thj) | [Discord](https://discordapp.com/users/881210690902302730/)
   
