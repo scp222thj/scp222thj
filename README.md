@@ -22,7 +22,7 @@
 - 👁️ **Project-Orwell** ( Private | `Python` | 🟡 WIP )
   - A script designed to coordinate a swarm of Discord selfbots with the purpose of collecting information on a large amount of discord guilds & users and keep track of their activity for analysis.
  
-- 🤡 **discord-lootbox-selfbot** ( [Github](https://github.com/scp222thj/discord-lootbox-selfbot) | `Python` | 🔴 Outdated & Archived )
+- 🤡 **discord-lootbox-selfbot** ( [Github](https://github.com/scp222thj/discord-lootbox-selfbot) | `Python` | 🔴 Outdated & archived )
   - A discord selfbot that automatically unlocks and redeems Discord's April Fools avatar decoration.
       
 - 🧑‍🚀 **AU-Data-Bot** ( Private | `Python` | 🔴 Dormant WIP )
