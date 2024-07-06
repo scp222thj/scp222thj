@@ -19,7 +19,7 @@
 - 👻 **MalumMenu** ( [Github](https://github.com/scp222thj/MalumMenu) | `C#` | 🟢 Actively maintained )
   - An easy-to-use Among Us cheat menu with a simple GUI and lots of useful modules.
 
-- 👁️ **Project-Orwell** ( Private | `Python` | 🟡 WIP )
+- 👁️ **Project-Orwell** ( Private | `Python` | 🔴 Dormant WIP )
   - A script designed to coordinate a swarm of Discord selfbots with the purpose of collecting information on a large amount of discord guilds & users and keep track of their activity for analysis.
  
 - 🤡 **discord-lootbox-selfbot** ( [Github](https://github.com/scp222thj/discord-lootbox-selfbot) | `Python` | 🔴 Outdated & archived )
