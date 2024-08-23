@@ -19,7 +19,10 @@
 - 👻 **MalumMenu** ( [Github](https://github.com/scp222thj/MalumMenu) | `C#` | 🟢 Actively maintained )
   - An easy-to-use Among Us cheat menu with a simple GUI and lots of useful modules.
 
-- 🧑‍🚀 **AU-Data-Bot** ( Private | `Python` | 🟡 WIP )
+- 🏦 **Bank-Of-Aura** ( Private | `Python` | 🟡 WIP )
+  - An economy / point system Discord bot based on aura points.
+
+- 🧑‍🚀 **AU-Data-Bot** ( Private | `Python` | 🔴 Dormant WIP )
   - A Discord bot that uses web scraping of different resources to collect a load of information on specific Among Us players.
 
 - 👁️ **Project-Orwell** ( Private | `Python` | 🔴 Dormant WIP )
