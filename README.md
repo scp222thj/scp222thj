@@ -20,4 +20,4 @@
   - The largest collection of free stuff on the internet!
 
 ## 🏆 Trophies
-![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=scp222thj)
+![trophy](https://github-profile-trophy-kannan.vercel.app/?username=scp222thj)
